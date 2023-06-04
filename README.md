@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0nathanbell&label=Profile%20views&color=0e75b6&style=flat" alt="j0nathanbell" /> </p>
 
-- 🔭 I’m currently working on [Scare BnB](https://airbnb-scoomey.herokuapp.com/)
 
-- 🌱 I’m currently learning **Ruby on Rails, React and Go**
+- 🌱 I’m currently learning **Ruby on Rails and React
 
-- 💬 Ask me about **Ruby on Rails, React, Go and Python**
+- 💬 Ask me about **Ruby on Rails, React and Python**
 
 - 📫 How to reach me **jonnybell123@hotmail.com**
 
